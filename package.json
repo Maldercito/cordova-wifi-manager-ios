@@ -1,0 +1,16 @@
+{
+  "name": "cordova.wifi.ios",
+  "version": "0.0.2",
+  "description": "Connect and disconnect automatically from your hotspots",
+  "cordova": {
+    "id": "cordova.wifi.ios",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "citecam",
+  "license": "ISC"
+}
